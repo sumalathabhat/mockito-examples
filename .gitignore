@@ -1,0 +1,7 @@
+#IDE
+.idea/*
+*/.idea/*
+*/.DS_Store
+
+#Java
+**/target
